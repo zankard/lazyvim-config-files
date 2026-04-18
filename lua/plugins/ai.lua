@@ -24,7 +24,7 @@ return {
           copilot = {
             cmd = { "copilot", "--banner", "--disable-mcp-server", "github-mcp-server" },
           },
-          safe-claude = {
+          safeclaude = {
             cmd = {
               "safe-claude",
             },
