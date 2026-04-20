@@ -11,6 +11,7 @@ return {
   --   end,
   -- },
   {
+    "bacon-check.nvim",
     dir = "~/Documents/Develop/lazy-plugins-dev/bacon-check.nvim",
     opts = {},
   },
